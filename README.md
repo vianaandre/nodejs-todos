@@ -40,14 +40,16 @@
   git clone https://github.com/vianaandre/nodejs-todos.git
 ```
 #### Instalar dependências
-```
+``` 
   npm i
 ```
 #### Rodar servidor
 ```
   npm run dev
 ```
+#### Rodar os testes
+```
+  npm run test
+```
 
 <hr />
-
-Feito com muito ❤ por <a href="https://github.com/vianaandre/">André</a>
